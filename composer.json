@@ -1,5 +1,5 @@
 {
-    "name": "ns/finance",
+    "name": "technopreacher/finance",
     "description": "pack for finance exchange from privatbank api",
     "type": "library",
     "license": "MIT",
