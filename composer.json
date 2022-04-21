@@ -1,0 +1,26 @@
+{
+    "name": "ns/finance",
+    "description": "pack for finance exchange from privatbank api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TechnoPreacher",
+            "email": "nik.nik.sulima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nsfin\\": "src"
+        }
+    },
+"repositories": [
+    {
+        "type": "path",
+        "url": "../finance"
+    }
+]
+}
+
