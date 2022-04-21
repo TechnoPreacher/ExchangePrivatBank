@@ -15,12 +15,6 @@
         "psr-4": {
             "nsfin\\": "src"
         }
-    },
-"repositories": [
-    {
-        "type": "path",
-        "url": "../finance"
     }
-]
 }
 
